@@ -17,10 +17,10 @@ Offensive Security • Web Exploitation • Tooling
 ```bash
 > whoami
 
-edgar@offsec:~$ security enthusiast
-edgar@offsec:~$ focused on web exploitation
-edgar@offsec:~$ building tools & labs
-edgar@offsec:~$ learning by breaking things
+0xDGXKS@offsec:~$ security enthusiast
+0xDGXKS@offsec:~$ focused on web exploitation
+0xDGXKS@offsec:~$ building tools & labs
+0xDGXKS@offsec:~$ learning by breaking things
 ```
 
 ---
@@ -93,25 +93,5 @@ fn main() {
 
 </div>
 
----
-
-## / philosophy
-
-```txt
-while(alive) {
-   learn();
-   build();
-   exploit();
-   improve();
-}
-```
-
----
-
-<div align="center">
-
-```txt
-[ Offensive Security Profile Loaded ]
-```
 
 </div>
