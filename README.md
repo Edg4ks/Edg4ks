@@ -15,9 +15,17 @@
 
 <div align="center">
 
-Cybersecurity Enthusiast • CTF Player • Web Hacking  
-Focused on Problem Solving, Analysis & Offensive Tooling  
-Rust • C++ • Bash • Linux  
+<h3>
+Cybersecurity Enthusiast • CTF Player • Web Hacking
+</h3>
+
+<p>
+Focused on Problem Solving, Analysis & Offensive Tooling
+</p>
+
+<p>
+🦀 Rust • ⚙️ C++ • 🐚 Bash • 🐧 Linux
+</p>
 
 </div>
 
