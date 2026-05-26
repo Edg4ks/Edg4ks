@@ -21,25 +21,10 @@
 • Studying Web Vulnerabilities  
 • Learning by Breaking Things  
 
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## / stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" height="55"/>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55"/>
-<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="55"/>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="55"/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55"/>
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/burpsuite/ff6600" height="50"/>
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50"/>
-<img src="https://cdn.simpleicons.org/nmap/FFFFFF" height="50"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,bash,linux,git,vscode&theme=dark" />
 
 </div>
-
