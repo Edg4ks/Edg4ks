@@ -1,11 +1,4 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> 0xDGXKS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=FF003C&center=true&vCenter=true&multiline=true&width=850&height=100&lines=+Offensive+Security/>
-
-</div>
-
 ---
 
 <div align="center">
