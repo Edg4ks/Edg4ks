@@ -24,24 +24,22 @@
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-# / stack
+## / stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=orange" />
-<img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/BurpSuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange" />
-<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=009CFF" />
-<img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge&logo=hackthebox&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge&logo=go&logoColor=00ADD8" />
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="55"/>
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/burpsuite/ff6600" height="50"/>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="50"/>
+<img src="https://cdn.simpleicons.org/nmap/FFFFFF" height="50"/>
 
 </div>
-
 
