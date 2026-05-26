@@ -1,138 +1,111 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>0/Xdgxks — Offensive Security</title>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&display=swap');
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:#07050d;font-family:'Share Tech Mono',monospace;color:#c8c8d8;padding:2rem}
- 
-.glitch{font-family:'Bebas Neue',cursive;font-size:4.5rem;letter-spacing:.15em;color:#fff;position:relative;display:inline-block;animation:glitchAnim 4s infinite}
-.glitch::before,.glitch::after{content:attr(data-text);position:absolute;top:0;left:0;width:100%;font-family:'Bebas Neue',cursive;font-size:4.5rem;letter-spacing:.15em}
-.glitch::before{color:#ff003c;clip:rect(0,900px,0,0);animation:glitch1 4s infinite}
-.glitch::after{color:#00f0ff;clip:rect(0,900px,0,0);animation:glitch2 4s infinite;opacity:.5}
-@keyframes glitchAnim{0%,90%,100%{transform:none}91%{transform:skewX(-1deg)}93%{transform:skewX(1.5deg)}95%{transform:skewX(0)}}
-@keyframes glitch1{0%,85%,100%{clip:rect(0,0,0,0);transform:none}86%{clip:rect(12px,900px,24px,0);transform:translate(-3px)}88%{clip:rect(50px,900px,62px,0);transform:translate(3px)}90%{clip:rect(30px,900px,45px,0);transform:translate(-2px)}92%{clip:rect(0,0,0,0)}}
-@keyframes glitch2{0%,87%,100%{clip:rect(0,0,0,0);transform:none}88%{clip:rect(40px,900px,52px,0);transform:translate(4px)}90%{clip:rect(8px,900px,20px,0);transform:translate(-3px)}92%{clip:rect(60px,900px,70px,0);transform:translate(2px)}94%{clip:rect(0,0,0,0)}}
- 
-.top{text-align:center;margin-bottom:2.5rem;position:relative;overflow:hidden}
-.top::after{content:'';position:absolute;top:0;left:-100%;width:40%;height:100%;background:linear-gradient(90deg,transparent,rgba(204,34,68,.06),transparent);animation:sweep 3s linear infinite}
-@keyframes sweep{to{left:160%}}
- 
-.subtitle{font-size:.72rem;color:#cc2244;letter-spacing:.3em;margin-top:.3rem}
-.handle{font-size:.8rem;color:#6050a0;letter-spacing:.15em;margin-top:.2rem}
- 
-.divider{height:1px;background:linear-gradient(90deg,transparent,#cc2244,transparent);margin:2rem 0;position:relative}
-.divider::after{content:'[ ARSENAL ]';position:absolute;left:50%;transform:translateX(-50%) translateY(-50%);background:#07050d;padding:0 1rem;font-size:.6rem;color:#cc2244;letter-spacing:.3em}
- 
-.console{background:#050308;border:1px solid #1e0a1a;border-radius:3px;padding:.9rem 1rem;margin-bottom:2rem;font-size:.7rem;line-height:1.9;color:#9090a8}
-.c-red{color:#ff4060}.c-grn{color:#4ec94e}.c-blu{color:#5090e0}.c-wht{color:#ddd}
-.blink{animation:blink 1s step-end infinite}
-@keyframes blink{50%{opacity:0}}
- 
-.skills-wrap{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem;margin-bottom:2rem}
-.sk{background:#0c0814;border:1px solid #1e0a1a;border-radius:3px;padding:1rem}
-.sk-title{font-size:.58rem;color:#cc2244;letter-spacing:.25em;text-transform:uppercase;margin-bottom:.8rem;padding-bottom:.5rem;border-bottom:1px solid #1e0a1a}
-.item{display:flex;align-items:center;gap:.5rem;font-size:.72rem;color:#b0a8c8;padding:.25rem 0;border-bottom:1px solid #120810}
-.item:last-child{border:none}
-.item:hover{color:#ff4060}
-.dot{width:5px;height:5px;border-radius:50%;flex-shrink:0;background:#cc2244;animation:dotPulse 2s ease-in-out infinite}
-.dot.p{background:#8040c0;animation-delay:.3s}
-.dot.g{background:#2ea043;animation-delay:.6s}
-.dot.b{background:#378add;animation-delay:.9s}
-@keyframes dotPulse{0%,100%{opacity:.4;transform:scale(1)}50%{opacity:1;transform:scale(1.4)}}
- 
-.langs-row{display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:2rem;justify-content:center}
-.lang{display:flex;align-items:center;gap:.5rem;padding:.45rem 1rem;border:1px solid #2a1030;background:#0c0814;border-radius:2px;font-size:.72rem;color:#c0b8d8;transition:border-color .2s,color .2s}
-.lang:hover{border-color:#cc2244;color:#fff}
-.lc{width:9px;height:9px;border-radius:50%}
- 
-.bottom{text-align:center;padding-top:1.5rem;border-top:1px solid #1a0a18}
-.bq{font-size:.78rem;color:#6050a0;line-height:2;letter-spacing:.05em}
-.bq strong{color:#cc2244}
-</style>
-</head>
-<body>
- 
-<div class="top">
-  <div class="glitch" data-text="OFFENSIVE SEC">OFFENSIVE SEC</div>
-  <div class="subtitle">// web penetration · red team · bug bounty</div>
-  <div class="handle">0/Xdgxks &nbsp;·&nbsp; ethical hacker</div>
+bash
+cat > /mnt/user-data/outputs/README.md << 'MDEOF'
+<!-- Reemplaza YOUR_USERNAME con tu usuario de GitHub (aparece 4 veces abajo) -->
+
+<div align="center">
+
+```
+ ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗██╗██╗   ██╗███████╗
+██╔═══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██║██║   ██║██╔════╝
+██║   ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗██║██║   ██║█████╗  
+██║   ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██║╚██╗ ██╔╝██╔══╝  
+╚██████╔╝██║     ██║     ███████╗██║ ╚████║███████║██║ ╚████╔╝ ███████╗
+ ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝ ╚══════╝
+```
+
+### `0/Xdgxks` — Web Pentester · Bug Hunter · OSINT Operator
+
+> *"Find the crack in every surface. Leave no log."*
+
+[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
+[![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
+
 </div>
- 
-<div class="console">
-  <span class="c-red">root@ghost</span><span class="c-wht">:</span><span class="c-blu">~/targets</span><span class="c-wht">$ </span><span class="c-grn">whoami</span><br>
-  <span class="c-wht">&nbsp;→ web pentester · osint operator · rust toolsmith</span><br>
-  <span class="c-red">root@ghost</span><span class="c-wht">:</span><span class="c-blu">~/targets</span><span class="c-wht">$ </span><span class="c-grn">cat mission.txt</span><br>
-  <span class="c-wht">&nbsp;→ find the crack in every surface. leave no log.</span><br>
-  <span class="c-red">root@ghost</span><span class="c-wht">:</span><span class="c-blu">~/targets</span><span class="c-wht">$ </span><span class="blink c-wht">_</span>
+
+---
+
+```bash
+root@ghost:~$ whoami
+  → web pentester | osint operator | rust toolsmith
+
+root@ghost:~$ cat /etc/mission
+  → break it before they patch it. always authorized. always documented.
+```
+
+---
+
+## 🕸️ Web Hacking
+
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-1a1a2e?style=flat-square&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0033?style=flat-square&logoColor=white)
+![Dalfox](https://img.shields.io/badge/Dalfox-CC2244?style=flat-square&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-7D3C98?style=flat-square&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-9B59B6?style=flat-square&logoColor=white)
+![XSStrike](https://img.shields.io/badge/XSStrike-8E44AD?style=flat-square&logoColor=white)
+![Arjun](https://img.shields.io/badge/Arjun-880033?style=flat-square&logoColor=white)
+![Katana](https://img.shields.io/badge/Katana-991133?style=flat-square&logoColor=white)
+![JWT Tool](https://img.shields.io/badge/JWT_Tool-333355?style=flat-square&logoColor=white)
+![ParamSpider](https://img.shields.io/badge/ParamSpider-660022?style=flat-square&logoColor=white)
+
+**Vuln classes I hunt:**
+`XSS` `SQLi` `SSRF` `IDOR` `SSTI` `XXE` `OAuth Abuse` `Cache Poisoning` `Prototype Pollution` `Open Redirect` `Broken Auth` `CSRF`
+
+---
+
+## 💀 Recon & OSINT
+
+![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=flat-square&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-333344?style=flat-square&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-555555?style=flat-square&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-2D2D3F?style=flat-square&logoColor=white)
+![gau](https://img.shields.io/badge/gau-444455?style=flat-square&logoColor=white)
+![Waybackurls](https://img.shields.io/badge/Waybackurls-553355?style=flat-square&logoColor=white)
+![BBOT](https://img.shields.io/badge/BBOT-1a0a2e?style=flat-square&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-444455?style=flat-square&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-222233?style=flat-square&logoColor=white)
+
+---
+
+## 🧠 Languages & Tools
+
+![Rust](https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&icon_color=ff4060&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&layout=compact&hide_border=false)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0d0d1a&border=8b0000&ring=cc2244&fire=ff4060&currStreakLabel=cc2244)
+
 </div>
- 
-<div class="divider"></div>
- 
-<div class="skills-wrap">
- 
-  <div class="sk">
-    <div class="sk-title">🕸 web hacking</div>
-    <div class="item"><span class="dot"></span>Burp Suite Pro</div>
-    <div class="item"><span class="dot"></span>Caido</div>
-    <div class="item"><span class="dot"></span>SQLMap</div>
-    <div class="item"><span class="dot"></span>Dalfox</div>
-    <div class="item"><span class="dot"></span>XSStrike</div>
-    <div class="item"><span class="dot"></span>ffuf</div>
-    <div class="item"><span class="dot"></span>Nuclei</div>
-    <div class="item"><span class="dot"></span>Arjun</div>
-    <div class="item"><span class="dot"></span>Katana</div>
-    <div class="item"><span class="dot"></span>JWT Tool</div>
-  </div>
- 
-  <div class="sk">
-    <div class="sk-title">💀 recon · osint</div>
-    <div class="item"><span class="dot p"></span>Shodan</div>
-    <div class="item"><span class="dot p"></span>Subfinder</div>
-    <div class="item"><span class="dot p"></span>Amass</div>
-    <div class="item"><span class="dot p"></span>httpx</div>
-    <div class="item"><span class="dot p"></span>gau</div>
-    <div class="item"><span class="dot p"></span>Waybackurls</div>
-    <div class="item"><span class="dot p"></span>BBOT</div>
-    <div class="item"><span class="dot p"></span>theHarvester</div>
-    <div class="item"><span class="dot p"></span>Maltego</div>
-    <div class="item"><span class="dot p"></span>ParamSpider</div>
-  </div>
- 
-  <div class="sk">
-    <div class="sk-title">⚔ vuln classes</div>
-    <div class="item"><span class="dot b"></span>XSS · Stored · DOM</div>
-    <div class="item"><span class="dot b"></span>SQL Injection</div>
-    <div class="item"><span class="dot b"></span>SSRF</div>
-    <div class="item"><span class="dot b"></span>IDOR</div>
-    <div class="item"><span class="dot b"></span>SSTI</div>
-    <div class="item"><span class="dot b"></span>XXE</div>
-    <div class="item"><span class="dot b"></span>OAuth Abuse</div>
-    <div class="item"><span class="dot b"></span>Cache Poisoning</div>
-    <div class="item"><span class="dot b"></span>Proto Pollution</div>
-    <div class="item"><span class="dot b"></span>Open Redirect</div>
-  </div>
- 
+
+---
+
+<div align="center">
+
+```
+every network has a shadow.
+i am that shadow.
+```
+
+*ethical hacking only · all activities performed with authorization*
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=cc2244&style=flat-square&label=VISITS)
+
 </div>
- 
-<div class="langs-row">
-  <span class="lang"><span class="lc" style="background:#CE412B"></span>Rust</span>
-  <span class="lang"><span class="lc" style="background:#4e4e4e"></span>Bash</span>
-  <span class="lang"><span class="lc" style="background:#3776AB"></span>Python</span>
-  <span class="lang"><span class="lc" style="background:#663399"></span>Obsidian</span>
-  <span class="lang"><span class="lc" style="background:#2ea043"></span>GitHub</span>
-</div>
- 
-<div class="bottom">
-  <div class="bq">
-    <strong>Every network has a shadow.</strong><br>
-    I am that shadow.<br>
-    <span style="font-size:.6rem;color:#3a1828;letter-spacing:.1em">ethical hacking only · all activities performed with authorization</span>
-  </div>
-</div>
- 
-</body>
-</html>
+MDEOF
+echo "ok"
