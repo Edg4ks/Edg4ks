@@ -21,7 +21,7 @@ status      :: Always Learning
 
 ---
 
-# ⚔ Web Hacking Arsenal
+# Web Hacking Arsenal
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0033?style=for-the-badge)
@@ -31,33 +31,13 @@ status      :: Always Learning
 
 ---
 
-# 🛰 Recon & OSINT
-
-![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge\&logo=shodan\&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-555555?style=for-the-badge)
-![Subfinder](https://img.shields.io/badge/Subfinder-333344?style=for-the-badge)
-![theHarvester](https://img.shields.io/badge/theHarvester-444455?style=for-the-badge)
-
----
-
-# 💻 Languages
+#  Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
----
-
-# 🎯 Current Objectives
-
-* Active Directory Attacks
-* Cloud Exploitation
-* Offensive Tool Development
-* Malware Research
-* Bug Bounty Hunting
-
----
 
 <div align="center">
 
