@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- GIF / IMAGEN EN MOVIMIENTO -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29uOGF5OWkwZ2NsMzBrcjFvbGQ4Z2gxOXJtM25kOW4xOXc1OGljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPC5S2CmvwHvy/giphy.gif" width="850"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm13bTF3eHo5MHNsdWxsdmVuMTc0em04N2V1ZzAzaWNhaXRwdnlkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7chn3eGiE5YLm/giphy.gif" width="350"/>
 
 </div>
 
@@ -21,10 +21,6 @@ Cybersecurity Enthusiast • CTF Player • Web Hacking
 
 <p>
 Focused on Problem Solving, Analysis & Offensive Tooling
-</p>
-
-<p>
-🦀 Rust • ⚙️ C++ • 🐚 Bash • 🐧 Linux
 </p>
 
 </div>
