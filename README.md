@@ -8,28 +8,20 @@
 
 </div>
 
----
-
-<div align="center">
-
-```txt
-[ Offensive Security Profile Loaded ]
-```
-
-</div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# / about_me
+## / about_me
 
-```bash
-> whoami
+<div align="left">
 
-0xDGXKS@offsec:~$ security enthusiast
-0xDGXKS@offsec:~$ focused on web exploitation
-0xDGXKS@offsec:~$ building offensive tooling
-0xDGXKS@offsec:~$ studying web vulnerabilities
-0xDGXKS@offsec:~$ learning by breaking things
+• Offensive Security Enthusiast  
+• Focused on Web Exploitation  
+• Building Offensive Tooling  
+• Studying Web Vulnerabilities  
+• Learning by Breaking Things  
+
+</div>
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
