@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  0xDGXKS
+0xDGXKS
 </h1>
 
 </div>
