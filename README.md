@@ -52,21 +52,9 @@ status      :: Always Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=midnight-purple&hide_border=true" />
-
-</div>
-```
-
-
-
-
-<div align="center">
-
 ### 「 Learn in the shadows. Attack with code. 」
 
 ethical hacking only • authorized environments only
 
 </div>
-```
+
