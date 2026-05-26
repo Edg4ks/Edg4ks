@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=FF003C&center=true&vCenter=true&multiline=true&width=850&height=100&lines=⚡+Offensive+Security;🌐+Web+Exploitation;🦀+Rust+•+⚙️+C%2B%2B+•+🐚+Bash;🔥+BurpSuite+%2F+Linux+%2F+Recon" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=FF003C&center=true&vCenter=true&multiline=true&width=850&height=100&lines=+Offensive+Security/>
 
 </div>
 
@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- GIF / IMAGEN EN MOVIMIENTO -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29uOGF5OWkwZ2NsMzBrcjFvbGQ4Z2gxOXJtM25kOW4xOXc1OGljcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPC5S2CmvwHvy/giphy.gif" width="850"/>
 
 </div>
 
