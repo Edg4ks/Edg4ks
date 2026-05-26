@@ -13,15 +13,15 @@
 
 ## / about_me
 
-<div align="left">
+<div align="center">
 
-• Offensive Security Enthusiast  
-• Focused on Web Exploitation  
-• Building Offensive Tooling  
-• Studying Web Vulnerabilities  
-• Learning by Breaking Things  
+Cybersecurity Enthusiast • CTF Player • Web Hacking  
+Focused on Problem Solving, Analysis & Offensive Tooling  
+Rust • C++ • Bash • Linux  
 
-## / stack
+</div>
+
+## / SKILLS
 
 <div align="center">
 
