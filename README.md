@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 0xGhostKen
+# 0/Xdgxks
 *Red Team Operator | Web Pentester | Bug Hunter*
 
 > "If I can't eat you, then I'll hack you until there's nothing left."
@@ -46,17 +46,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-##  GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&icon_color=ff4060)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&layout=compact)
-
-</div>
 
 ---
 
