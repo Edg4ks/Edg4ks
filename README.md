@@ -59,18 +59,6 @@ Offensive Security • Web Exploitation • Tooling
 
 </div>
 
----
-
-## / activity
-
-```txt
-[+] Researching Web Vulnerabilities
-[+] Practicing on Labs & CTFs
-[+] Building Minimal Offensive Tools
-[+] Learning Low-Level Programming
-```
-
----
 
 ## / current_focus
 
