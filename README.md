@@ -68,17 +68,3 @@ fn main() {
 }
 ```
 
----
-
-## / github
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xDGXKS&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDGXKS&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-</div>
-
-
-</div>
