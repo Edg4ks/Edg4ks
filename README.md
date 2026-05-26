@@ -4,14 +4,14 @@ cat > /mnt/user-data/outputs/README.md << 'MDEOF'
 
 <div align="center">
 
-```
- ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗██╗██╗   ██╗███████╗
-██╔═══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██║██║   ██║██╔════╝
-██║   ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗██║██║   ██║█████╗  
-██║   ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██║╚██╗ ██╔╝██╔══╝  
+          ```
+  ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗██╗██╗   ██╗███████╗
+ ██╔═══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██║██║   ██║██╔════╝
+ ██║   ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗██║██║   ██║█████╗  
+ ██║   ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██║╚██╗ ██╔╝██╔══╝  
 ╚██████╔╝██║     ██║     ███████╗██║ ╚████║███████║██║ ╚████╔╝ ███████╗
  ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝ ╚══════╝
-```
+```                                                                 
 
 ### `0/Xdgxks` — Web Pentester · Bug Hunter · OSINT Operator
 
@@ -35,26 +35,16 @@ root@ghost:~$ cat /etc/mission
 
 ---
 
-## 🕸️ Web Hacking
+##  Web Hacking
 
 ![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-1a1a2e?style=flat-square&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0033?style=flat-square&logoColor=white)
-![Dalfox](https://img.shields.io/badge/Dalfox-CC2244?style=flat-square&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-7D3C98?style=flat-square&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-9B59B6?style=flat-square&logoColor=white)
-![XSStrike](https://img.shields.io/badge/XSStrike-8E44AD?style=flat-square&logoColor=white)
-![Arjun](https://img.shields.io/badge/Arjun-880033?style=flat-square&logoColor=white)
-![Katana](https://img.shields.io/badge/Katana-991133?style=flat-square&logoColor=white)
-![JWT Tool](https://img.shields.io/badge/JWT_Tool-333355?style=flat-square&logoColor=white)
-![ParamSpider](https://img.shields.io/badge/ParamSpider-660022?style=flat-square&logoColor=white)
-
-**Vuln classes I hunt:**
-`XSS` `SQLi` `SSRF` `IDOR` `SSTI` `XXE` `OAuth Abuse` `Cache Poisoning` `Prototype Pollution` `Open Redirect` `Broken Auth` `CSRF`
 
 ---
 
-## 💀 Recon & OSINT
+## Recon & OSINT
 
 ![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=flat-square&logoColor=white)
 ![Subfinder](https://img.shields.io/badge/Subfinder-333344?style=flat-square&logoColor=white)
@@ -68,7 +58,7 @@ root@ghost:~$ cat /etc/mission
 
 ---
 
-## 🧠 Languages & Tools
+##  Languages & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -77,7 +67,6 @@ root@ghost:~$ cat /etc/mission
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -85,11 +74,15 @@ root@ghost:~$ cat /etc/mission
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&icon_color=ff4060&hide_border=false)
+md id="uxl5gz"
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xdgxks&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&icon_color=ff4060&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&layout=compact&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xdgxks&theme=tokyonight&bg_color=0d0d1a&border_color=8b0000&title_color=cc2244&text_color=c0c0d0&layout=compact&hide_border=false)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0d0d1a&border=8b0000&ring=cc2244&fire=ff4060&currStreakLabel=cc2244)
+![Streak](https://streak-stats.demolab.com?user=0xdgxks&theme=tokyonight&background=0d0d1a&border=8b0000&ring=cc2244&fire=ff4060&currStreakLabel=cc2244)
+
+![](https://komarev.com/ghpvc/?username=0xdgxks&color=cc2244&style=flat-square&label=VISITS)
+
 
 </div>
 
@@ -104,7 +97,9 @@ i am that shadow.
 
 *ethical hacking only · all activities performed with authorization*
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=cc2244&style=flat-square&label=VISITS)
+![](https://komarev.com/ghpvc/?username=0xdgxks&color=cc2244&style=flat-square&label=VISITS)
+
+
 
 </div>
 MDEOF
