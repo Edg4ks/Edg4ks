@@ -19,10 +19,10 @@ focus       :: Offensive Security
 status      :: Always Learning
 ````
 
-```md
-# ⚡ Skills
 
-## 🌐 Web Pentesting
+#  Skills
+
+##  Web Pentesting
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-9B59B6?style=for-the-badge)
@@ -31,25 +31,24 @@ status      :: Always Learning
 ![XSStrike](https://img.shields.io/badge/XSStrike-8E44AD?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
----
 
-## 💻 Languages & Scripting
+
+##  Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
-## 🛠 Workspace & Platforms
+## Workspace & Platforms
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
----
+
 
 <div align="center">
 
@@ -61,7 +60,7 @@ status      :: Always Learning
 ```
 
 
----
+
 
 <div align="center">
 
