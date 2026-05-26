@@ -3,7 +3,7 @@
 
 # 0xDGXKS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Web+Pentester;Bug+Bounty+Hunter;Offensive+Security+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Red+Team+Operato;Web+Pentester;Offensive+Security+Enthusiast" />
 
 </div>
 
