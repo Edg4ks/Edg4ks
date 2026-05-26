@@ -22,7 +22,6 @@
 • Learning by Breaking Things  
 
 </div>
-```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
