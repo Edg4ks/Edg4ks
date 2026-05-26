@@ -6,10 +6,9 @@ Offensive Security • Web Exploitation • Tooling
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Offensive+Security+Student;Web+Application+Security;Rust+%7C+C%2B%2B+%7C+Bash;BurpSuite+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Offensive+Security;Web+Exploitation;Rust+•+C%2B%2B+•+Bash;BurpSuite+%2F+Linux+%2F+Recon" />
 
 </div>
-
 ---
 
 ## / about_me
