@@ -5,5 +5,4 @@
 # 0xDGXKS
 
 ```bash
-Offensive Security Researcher
-CTF Player • Web Hacking • Red Team
+Offensive Security Researcher • CTF Player • Web Hacking
